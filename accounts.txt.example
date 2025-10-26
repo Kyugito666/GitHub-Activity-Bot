@@ -1,0 +1,19 @@
+# GitHub Activity Bot - Accounts Configuration
+# 
+# Format: username:password
+# One account per line
+# Lines starting with # are ignored
+#
+# Example:
+# myusername:MySecurePassword123
+# anotheruser:AnotherPassword456
+#
+# IMPORTANT SECURITY NOTES:
+# 1. This file stores passwords in PLAIN TEXT
+# 2. NEVER commit this file to git (already in .gitignore)
+# 3. Use dedicated test accounts, not your main accounts
+# 4. Keep this file secure with proper file permissions
+#
+# Recommended: chmod 600 accounts.txt (Linux/Mac)
+#
+# Add your accounts below:

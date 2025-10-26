@@ -1,0 +1,14 @@
+# GitHub Activity Bot - Dependencies
+
+# Core - Web Automation (Standard Selenium, NO undetected-chromedriver)
+selenium==4.22.0
+
+# AI Content Generation (Optional - has fallback)
+google-generativeai==0.7.1
+
+# Configuration Management
+python-dotenv==1.0.1
+
+# Note: Chrome binary dan ChromeDriver harus di-download manual
+# Chrome for Testing: https://googlechromelabs.github.io/chrome-for-testing/
+# Letakkan di: chrome-bin/chrome.exe dan drivers/chromedriver.exe
